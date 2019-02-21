@@ -1,0 +1,24 @@
+{
+  "name": "modulo3",
+  "version": "1.0.0",
+  "description": "Modulo 3 do curso da Rocketseat API REST",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Eduardo Oliveira <eduardo_felipe_oliveira@yahoo.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.14"
+  }
+}
